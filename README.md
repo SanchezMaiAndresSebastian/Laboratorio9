@@ -114,9 +114,7 @@ A se denomina ganancia de voltaje de bucle abierto porque es la ganancia de un a
 5.5.4. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores
 operacionales.
 
-
-
-
+Otra donde está el uso de amplifcadores operacionales es en la correciones de señales, en el cuidado y prevención de instrumentos electrónicos de cualquier fabrica, en la buena corriente que se pueda tener en una compania, filtros activos, amplificador de señales.
 
 
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
@@ -134,9 +132,9 @@ operacionales.
  
 ### 8.	CONCLUSIONES
 
- - La teoria de thevenin si se aplica en las propiedades de su uso en la vida real
- - Al tener especificado en la teroía los resultados, sis se tiene un resultado con un menor error, pero eso no se reflejaria en la vida real, debido a que no existe circuitos perefctos a temperatura ambiente.
- - La teroia de thevenin si es correcta al poder simlifcar los caculosn y con ello que se pueda ahorrar mas materiales en un caso de que se construya un circuito.
+ - Se explico como es el funcionamiento de un amplificador operacional con el cual se logra entender su uso en un circuito
+ - Al tener entendido su uso, se logra su implementacion correcta en caosos especificos de su uso.
+ - Se logra el cometdio de entender a utilizar los instrumentos de forma optima con el tal de hacer lecturas correctas de los componentes
 
 ### 9.	BIBLIOGRAFÍA
 
