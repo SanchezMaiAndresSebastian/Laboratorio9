@@ -4,13 +4,13 @@
 
 **Principales**
 
- - Experimentar las propiedades de una teoría de circuitos a la practica.
+ - Experimentar los amplificadores Operacionales
 
 **Específicos**
 
-- Explicar la teoría de circuitos
-- Verificar si se tiene una escala menor de error con lo teorico y practico.
-- Calcular la corriente exacta de un circuito por el metodo de thevenin.
+- Explicar la teoria de amplificadores operacionales
+- Familiarizarse con el uso de amplificadores operacionales
+- Testar el circuito con el amplificador operacional
 
 ### 2.	MARCO TEÓRICO 
 
@@ -25,15 +25,19 @@
 
 | Cantidad | Componentes | 
 | -------- | ----------- |
-| 2 | Fuente de Voltaje C.D. |
-| 2 | Multímetros Digitales |
-| 1 | Resistor de 560 Ω | 
-| 1 | Resistor de 4.7 kΩ | 
-| 1 | Resistor de 330 Ω | 
-| 1 | Resistencia 100 Ω | 
+| 2 | Generador de señales |
+| 2 | Fuente DC |
+| 1 | Osciloscopio | 
+| 1 | Protoboard | 
+| 1 | Multimetro |
+| 1 | Resistencia 300 Ω | 
+| 1 | Resistor de 200 Ω |
+| 1 | Resistor de 4,3 kΩ | 
 | 1 | Resistor de 1 kΩ | 
-| 1 | Potenciómetro de precisión de 1 kΩ | 
-| 1 |Protoboard | 
+| 1 | Capacitor de 1 uF | 
+| 1 | Resistor de 1 kΩ |
+| 1 | Amplificador operacional LM741 | 
+ 
 
  
 > (Herramientas utilizadas en simulación) 
@@ -42,7 +46,8 @@
 
 ### 5.	EXPLICACIÓN
 
-5.5.1. Arme el circuito que se muestra en la figura 5.1
+5.5.1. Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos
+en el trabajo preparatorio. Comente dicha comparación.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-7/blob/main/Fotos/3.png)
 
