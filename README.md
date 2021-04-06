@@ -65,32 +65,32 @@ En la señal de entrada se observa que es unseñal senoidal la cual nos indica l
 
 La señal de entrada que observamos es una señal cuadrada ya que tenemos una frecuencia de 3k Hz con 5V al conectar el osciloscopio vemos que el tiempo por división es 100 us y en la señal de salida al conectar el osciloscopio el tiempo por división es de 1000 us se puede observar acercándolo que se parece a una señal triangular como me muestra   y este amplificador es un amplificador integrador el cual debe darme una señal triangular 
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/7.png)
 
 Tiempo de división de entrada
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/8.png)
 
 Tiempo de división de salida 
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/9.png)
 
 #### Análisis Circuito 3
 
 Tenemos un amplificador sumador inversor por lo que tenemos 2 fuentes ac ambas tienes la misma frecuencia de 3kHz las cuales se van a sumar y entrar al amplificador 741 se observa que la señal de entrada es una señal senoidal con el tiempo por división de 1000 us y se muestra la señal mientras que en la señal de salida en el osciloscopio se muestra una señal mas pequeña con las mismas divisiones.
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/10.png)
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/11.png)
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/12.png)
 
 #### PREGUNTAS
 
 5.5.2. Anote parámetros técnicos importantes de un amplificador operacional que deben ser
 tomados en cuenta al momento de utilizarlos en un proyecto.
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/13.png)
 
 Este es un esquema que se debe tener en cuenta a la hora de realizar un circuito, pues de esta forma podemos observar el modo de conexión y la cantidad de conexiones en el circuito.
 También debemos considerar la entrada con 2 cuyos signos son (+) y (-), que son inversoras y no inversoras y de salida.
@@ -99,7 +99,7 @@ También debe tenerse en cuenta que la entrada aplicada al terminal no inversor 
 5.5.3. Investigue las características de amplificadores operacionales distintos a los utilizados en
 esta práctica.
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio9/blob/main/Fotos/14.png)
 
 La parte de salida está compuesta por una fuente de alimentación controlada por voltaje conectada en serie con la resistencia de salida Ro. Es obvio que la resistencia de entrada Ri es la resistencia equivalente de Thévenin vista en el terminal de entrada, y la resistencia de salida Ro es la resistencia equivalente de Thévenin vista en el terminal de salida. El voltaje de entrada diferencial vd viene dado por:
 
